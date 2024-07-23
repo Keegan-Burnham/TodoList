@@ -22,7 +22,6 @@ To get started with the TodoList App, follow these steps:
    git clone https://github.com/Keegan-Burnham/TodoList.git
    cd TodoList
    
-
 ## Usage
 To run the TodoList App locally, click run
 
